@@ -1,0 +1,130 @@
+solid Test
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex 10.0 0.0 -75.0
+  vertex 7.071068 7.071068 -75.0
+  vertex 0.0 0.0 -75.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex 10.0 0.0 -75.0
+  vertex 7.071068 7.071068 -75.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex 7.071068 7.071068 -75.0
+  vertex -4.371139E-7 10.0 -75.0
+  vertex 0.0 0.0 -75.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex 7.071068 7.071068 -75.0
+  vertex -4.371139E-7 10.0 -75.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex -4.371139E-7 10.0 -75.0
+  vertex -7.071068 7.071068 -75.0
+  vertex 0.0 0.0 -75.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex -4.371139E-7 10.0 -75.0
+  vertex -7.071068 7.071068 -75.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex -7.071068 7.071068 -75.0
+  vertex -10.0 -8.742278E-7 -75.0
+  vertex 0.0 0.0 -75.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex -7.071068 7.071068 -75.0
+  vertex -10.0 -8.742278E-7 -75.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex -10.0 -8.742278E-7 -75.0
+  vertex -7.0710664 -7.071069 -75.0
+  vertex 0.0 0.0 -75.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex -10.0 -8.742278E-7 -75.0
+  vertex -7.0710664 -7.071069 -75.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex -7.0710664 -7.071069 -75.0
+  vertex 1.1924881E-7 -10.0 -75.0
+  vertex 0.0 0.0 -75.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex -7.0710664 -7.071069 -75.0
+  vertex 1.1924881E-7 -10.0 -75.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex 1.1924881E-7 -10.0 -75.0
+  vertex 7.07107 -7.0710654 -75.0
+  vertex 0.0 0.0 -75.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex 1.1924881E-7 -10.0 -75.0
+  vertex 7.07107 -7.0710654 -75.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex 7.07107 -7.0710654 -75.0
+  vertex 10.0 0.0 -75.0
+  vertex 0.0 0.0 -75.0
+  endloop
+ endfacet
+
+ facet normal 20.0 150.0 -8998.0
+  outer loop
+  vertex 7.07107 -7.0710654 -75.0
+  vertex 10.0 0.0 -75.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+endsolid Test

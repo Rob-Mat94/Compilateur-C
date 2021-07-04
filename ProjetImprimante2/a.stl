@@ -1,0 +1,98 @@
+solid Test
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 0.0 0.0 200.0
+  vertex 0.0 40.0 0.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 0.0 40.0 200.0
+  vertex 0.0 0.0 200.0
+  vertex 0.0 40.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 15.0 40.0 200.0
+  vertex 15.0 0.0 200.0
+  vertex 15.0 40.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 15.0 0.0 0.0
+  vertex 15.0 0.0 200.0
+  vertex 15.0 40.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 15.0 0.0 200.0
+  vertex 15.0 0.0 0.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 15.0 0.0 200.0
+  vertex 0.0 0.0 200.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 15.0 40.0 200.0
+  vertex 15.0 40.0 0.0
+  vertex 0.0 40.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 15.0 40.0 200.0
+  vertex 0.0 40.0 200.0
+  vertex 0.0 40.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 0.0 0.0 0.0
+  vertex 0.0 40.0 0.0
+  vertex 15.0 40.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 15.0 0.0 0.0
+  vertex 0.0 0.0 0.0
+  vertex 15.0 40.0 0.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 0.0 0.0 200.0
+  vertex 0.0 40.0 200.0
+  vertex 15.0 40.0 200.0
+  endloop
+ endfacet
+
+ facet normal 15.0 40.0 200.0
+  outer loop
+  vertex 15.0 0.0 200.0
+  vertex 0.0 0.0 200.0
+  vertex 15.0 40.0 200.0
+  endloop
+ endfacet
+
+endsolid Test

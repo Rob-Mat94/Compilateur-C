@@ -1,0 +1,4 @@
+xming
+xserv
+
+startxfce4

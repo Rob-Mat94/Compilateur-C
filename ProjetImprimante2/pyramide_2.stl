@@ -1,0 +1,98 @@
+solid Test
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex 20.0 0.0 -25.0
+  vertex 9.999999 17.320509 -25.0
+  vertex 0.0 0.0 -25.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex 20.0 0.0 -25.0
+  vertex 9.999999 17.320509 -25.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex 9.999999 17.320509 -25.0
+  vertex -10.000001 17.320507 -25.0
+  vertex 0.0 0.0 -25.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex 9.999999 17.320509 -25.0
+  vertex -10.000001 17.320507 -25.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex -10.000001 17.320507 -25.0
+  vertex -20.0 -1.7484556E-6 -25.0
+  vertex 0.0 0.0 -25.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex -10.000001 17.320507 -25.0
+  vertex -20.0 -1.7484556E-6 -25.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex -20.0 -1.7484556E-6 -25.0
+  vertex -9.999998 -17.320509 -25.0
+  vertex 0.0 0.0 -25.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex -20.0 -1.7484556E-6 -25.0
+  vertex -9.999998 -17.320509 -25.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex -9.999998 -17.320509 -25.0
+  vertex 10.000008 -17.320503 -25.0
+  vertex 0.0 0.0 -25.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex -9.999998 -17.320509 -25.0
+  vertex 10.000008 -17.320503 -25.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex 10.000008 -17.320503 -25.0
+  vertex 20.0 0.0 -25.0
+  vertex 0.0 0.0 -25.0
+  endloop
+ endfacet
+
+ facet normal 40.0 50.0 -8998.0
+  outer loop
+  vertex 10.000008 -17.320503 -25.0
+  vertex 20.0 0.0 -25.0
+  vertex 0.0 0.0 0.0
+  endloop
+ endfacet
+
+endsolid Test
